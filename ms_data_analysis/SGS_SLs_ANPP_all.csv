@@ -1,0 +1,161 @@
+﻿Plot,Clip_Type,TRT,Comb.TRT,ANPP,Total.Grasses
+2,clip,amb,amb,666.8,64.6
+2,reclip,amb,amb,16.4,16.1
+2,TOTAL,amb,amb,683.2,80.7
+3,clip,drought w/ deluge,drought w/ deluge,337.8,171.4
+3,reclip,drought w/ deluge,drought w/ deluge,35.2,32.1
+3,TOTAL,drought w/ deluge,drought w/ deluge,373,203.5
+4,clip,amb w/ deluge,amb,110.1,109.2
+4,reclip,amb w/ deluge,amb w/ deluge,32.2,32.2
+4,TOTAL,amb w/ deluge,amb w/ deluge,142.3,141.4
+5,clip,drought w/ deluge,drought w/ deluge,55.8,55.8
+5,reclip,drought w/ deluge,drought w/ deluge,2.8,2.8
+5,TOTAL,drought w/ deluge,drought w/ deluge,58.6,58.6
+6,clip,amb,amb,140.6,139.3
+6,reclip,amb,amb,4.9,4.9
+6,TOTAL,amb,amb,145.5,144.2
+9,clip,amb,amb,69.6,69.6
+9,reclip,amb,amb,22.6,22.6
+9,TOTAL,amb,amb,92.2,92.2
+10,clip,amb w/ deluge,amb,283.6,157.7
+10,reclip,amb w/ deluge,amb w/ deluge,57.7,52.9
+10,TOTAL,amb w/ deluge,amb w/ deluge,341.3,210.6
+11,clip,amb w/ deluge,amb,117.2,86.1
+11,reclip,amb w/ deluge,amb w/ deluge,20.6,14.8
+11,TOTAL,amb w/ deluge,amb w/ deluge,137.8,100.9
+12,clip,amb,amb,106.8,97.8
+12,reclip,amb,amb,5.4,4.8
+12,TOTAL,amb,amb,112.2,102.6
+13,clip,amb w/ deluge,amb,156.1,110.7
+13,reclip,amb w/ deluge,amb w/ deluge,22,21.3
+13,TOTAL,amb w/ deluge,amb w/ deluge,178.1,132
+14,clip,drought w/ deluge,drought w/ deluge,287.7,94.2
+14,reclip,drought w/ deluge,drought w/ deluge,18.4,16.4
+14,TOTAL,drought w/ deluge,drought w/ deluge,306.1,110.6
+15,clip,drought w/ deluge,drought w/ deluge,79.5,78.4
+15,reclip,drought w/ deluge,drought w/ deluge,4.6,4.6
+15,TOTAL,drought w/ deluge,drought w/ deluge,84.1,83
+16,clip,amb w/ deluge,amb,122.9,112.7
+16,reclip,amb w/ deluge,amb w/ deluge,80.6,34.7
+16,TOTAL,amb w/ deluge,amb w/ deluge,203.5,147.4
+18,clip,amb,amb,151.2,131.5
+18,reclip,amb,amb,6.5,6.5
+18,TOTAL,amb,amb,157.7,138
+19,clip,drought w/ deluge,drought w/ deluge,256.3,114.9
+19,reclip,drought w/ deluge,drought w/ deluge,25.3,25.1
+19,TOTAL,drought w/ deluge,drought w/ deluge,281.6,140
+20,clip,amb w/ deluge,amb,85.6,85.6
+20,reclip,amb w/ deluge,amb w/ deluge,34.9,34.9
+20,TOTAL,amb w/ deluge,amb w/ deluge,120.5,120.5
+21,clip,amb,amb,113.5,97.9
+21,reclip,amb,amb,8.5,7.1
+21,TOTAL,amb,amb,122,105
+22,clip,drought w/ deluge,drought w/ deluge,65.1,62.5
+22,reclip,drought w/ deluge,drought w/ deluge,16.5,16.2
+22,TOTAL,drought w/ deluge,drought w/ deluge,81.6,78.7
+23,clip,amb,amb,86.4,86.4
+23,reclip,amb,amb,20.8,20.8
+23,TOTAL,amb,amb,107.2,107.2
+24,clip,amb w/ deluge,amb,87.1,78
+24,reclip,amb w/ deluge,amb w/ deluge,17.9,17.9
+24,TOTAL,amb w/ deluge,amb w/ deluge,105,95.9
+26,clip,amb,amb,118.7,118.7
+26,reclip,amb,amb,1.8,1.8
+26,TOTAL,amb,amb,120.5,120.5
+28,clip,amb,amb,126.2,94.8
+28,reclip,amb,amb,1.3,1.3
+28,TOTAL,amb,amb,127.5,96.1
+29,clip,amb,amb,103,93.3
+29,reclip,amb,amb,10.3,8.6
+29,TOTAL,amb,amb,113.3,101.9
+30,clip,amb w/ deluge,amb,123.9,122.4
+30,reclip,amb w/ deluge,amb w/ deluge,22.7,22.7
+30,TOTAL,amb w/ deluge,amb w/ deluge,146.6,145.1
+31,clip,amb,amb,150.7,117.4
+31,reclip,amb,amb,1.8,1.8
+31,TOTAL,amb,amb,152.5,119.2
+32,clip,amb,amb,140.6,135.1
+32,reclip,amb,amb,1.5,1.3
+32,TOTAL,amb,amb,142.1,136.4
+33,clip,drought w/ deluge,drought w/ deluge,42.6,42.6
+33,reclip,drought w/ deluge,drought w/ deluge,4.2,3.9
+33,TOTAL,drought w/ deluge,drought w/ deluge,46.8,46.5
+34,clip,amb,amb,125.6,121.7
+34,reclip,amb,amb,7.1,7.1
+34,TOTAL,amb,amb,132.7,128.8
+35,clip,amb,amb,127.6,127.6
+35,reclip,amb,amb,7.3,7.3
+35,TOTAL,amb,amb,134.9,134.9
+37,clip,amb w/ deluge,amb,109.3,107.8
+37,reclip,amb w/ deluge,amb w/ deluge,34.3,33.4
+37,TOTAL,amb w/ deluge,amb w/ deluge,143.6,141.2
+38,clip,drought w/ deluge,drought w/ deluge,106.7,105.8
+38,reclip,drought w/ deluge,drought w/ deluge,17.2,15.9
+38,TOTAL,drought w/ deluge,drought w/ deluge,123.9,121.7
+39,clip,amb,amb,119.7,119.6
+39,reclip,amb,amb,11.9,11.9
+39,TOTAL,amb,amb,131.6,131.5
+41,clip,drought w/ deluge,drought w/ deluge,131.3,85.9
+41,reclip,drought w/ deluge,drought w/ deluge,19.7,19.3
+41,TOTAL,drought w/ deluge,drought w/ deluge,151,105.2
+42,clip,amb,amb,204.9,199
+42,reclip,amb,amb,17.4,17.4
+42,TOTAL,amb,amb,222.3,216.4
+43,clip,amb,amb,124.2,105.3
+43,reclip,amb,amb,10.5,10.5
+43,TOTAL,amb,amb,134.7,115.8
+44,clip,amb w/ deluge,amb,129.1,129.1
+44,reclip,amb w/ deluge,amb w/ deluge,38.4,38.4
+44,TOTAL,amb w/ deluge,amb w/ deluge,167.5,167.5
+45,clip,amb,amb,120.3,117.1
+45,reclip,amb,amb,1,1
+45,TOTAL,amb,amb,121.3,118.1
+47,clip,amb,amb,88,87.5
+47,reclip,amb,amb,21.3,21.3
+47,TOTAL,amb,amb,109.3,108.8
+49,clip,drought w/ deluge,drought w/ deluge,122.1,122.1
+49,reclip,drought w/ deluge,drought w/ deluge,26.9,26.9
+49,TOTAL,drought w/ deluge,drought w/ deluge,149,149
+50,clip,amb,amb,147.2,135.7
+50,reclip,amb,amb,5.7,5.7
+50,TOTAL,amb,amb,152.9,141.4
+2,clip2,amb,amb,91,90.4
+3,clip2,drought w/ deluge,drought w/ deluge,186.3,161
+4,clip2,amb w/ deluge,amb w/ deluge,99.2,92.2
+5,clip2,drought w/ deluge,drought w/ deluge,60.7,60.7
+6,clip2,amb,amb,95.8,77.3
+9,clip2,amb,amb,116,116
+10,clip2,amb w/ deluge,amb w/ deluge,141.1,133.3
+11,clip2,amb w/ deluge,amb w/ deluge,83.9,83.6
+12,clip2,amb,amb,80.6,62.1
+13,clip2,amb w/ deluge,amb w/ deluge,97.8,88.3
+14,clip2,drought w/ deluge,drought w/ deluge,62.1,58.9
+15,clip2,drought w/ deluge,drought w/ deluge,69.8,61.9
+16,clip2,amb w/ deluge,amb w/ deluge,75.5,71.2
+18,clip2,amb,amb,79.1,69.8
+19,clip2,drought w/ deluge,drought w/ deluge,67,66.2
+20,clip2,amb w/ deluge,amb w/ deluge,94.5,94.5
+21,clip2,amb,amb,121.9,119.9
+22,clip2,drought w/ deluge,drought w/ deluge,68.7,68.7
+23,clip2,amb,amb,64.8,63.8
+24,clip2,amb w/ deluge,amb w/ deluge,99.6,88.6
+26,clip2,amb,amb,53.1,52.5
+28,clip2,amb,amb,38.7,35.1
+29,clip2,amb,amb,108.8,104.2
+30,clip2,amb w/ deluge,amb w/ deluge,186.8,77.6
+31,clip2,amb,amb,126.7,87.6
+32,clip2,amb,amb,62.9,53.9
+33,clip2,drought w/ deluge,drought w/ deluge,59.8,57.3
+34,clip2,amb,amb,78.9,75.4
+35,clip2,amb,amb,81.8,81.3
+37,clip2,amb w/ deluge,amb w/ deluge,98.6,96
+38,clip2,drought w/ deluge,drought w/ deluge,80.8,80.1
+39,clip2,amb,amb,93.5,89.2
+41,clip2,drought w/ deluge,drought w/ deluge,83.4,79.2
+42,clip2,amb,amb,126.7,124
+43,clip2,amb,amb,93.2,93.2
+44,clip2,amb w/ deluge,amb w/ deluge,192,80.3
+45,clip2,amb,amb,115.6,115.6
+47,clip2,amb,amb,133,133
+49,clip2,drought w/ deluge,drought w/ deluge,112.3,112.3
+50,clip2,amb,amb,43.3,34.8
